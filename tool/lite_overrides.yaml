@@ -1,0 +1,4 @@
+# Copied to pubspec_overrides.yaml by tool/build_lite.sh. Swaps the ~200 MB LibreOffice plugin for an empty stub.
+dependency_overrides:
+  libre_office_kit_converter_plugin:
+    path: stubs/libre_office_kit_converter_plugin_stub

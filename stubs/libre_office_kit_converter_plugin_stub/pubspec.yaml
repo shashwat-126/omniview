@@ -1,0 +1,9 @@
+name: libre_office_kit_converter_plugin
+description: Empty stand-in used by the OmniView "lite" build (no LibreOffice, no native code).
+version: 0.0.2
+publish_to: none
+environment:
+  sdk: ">=3.3.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
